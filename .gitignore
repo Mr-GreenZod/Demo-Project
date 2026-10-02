@@ -1,0 +1,14 @@
+# Java / Maven build output
+**/target/
+**/build/
+**/bin/
+
+# IDE files
+**/.idea/
+**/.settings/
+**/.classpath
+**/.project
+
+# OS files
+.DS_Store
+Thumbs.db
